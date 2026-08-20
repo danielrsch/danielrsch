@@ -1,60 +1,34 @@
-# hey, i'm daniel 👋 �
+# hey, i'm daniel 👋 🐳
 
-> *"Mama always said the sea is a cruel mistress… but local AI is a paradise."*
->
-> — **Orlo the Whale**
+> *"Another man's computer remains another man's computer."* — Orlo the Whale 🐋
 
-i build weird, opinionated dev tools that make your terminal feel like home. strong believer that setup scripts deserve personality, that `set -euo pipefail` is a love language, and that **another man's computer remains another man's computer** — local inference first, always.
+i build opinionated dev tools and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
 
 ---
 
-### 🐳 what i'm shipping right now
+### �️ skills
 
-| project | what it does | vibe |
-|---------|-------------|------|
-| **Orlo the Whale** � | a personality-driven macOS setup script that turns a fresh machine into your exact dev stack with one bash run. it has ASCII art, opinions, and calls you "my little fish." | chaotic good |
-| **Hermes Token & Cost Tracker** 🧾 | reads real token counts from Hermes' `state.db` and tells you what your free/local AI chats would have cost on DeepSeek (2026's cheapest capable API alternative). spoilers: you're saving *thousands*. | utilitarian with a whale pun |
-| **WarFi** ⚔️📊 | interactive US military budget & force-structure forecaster. scikit-learn multiple linear regression on 2010–2023 macroeconomic data, CAGR projections for ships/planes/carriers, deterministic 5% attrition model, atomic-swap JSON history log. predicts 2025 budget from your GDP/inflation guesses. UK / EU / APAC editions in the works. | wonkish defense-nerd simulator |
-
----
-
-### 🔬 the other side of my git history
-
-when i'm not building terminal tools, i'm fiddling with data-driven predictions and serious ML pipelines:
-
-- **war fi** — multiple linear regression (`sklearn.linear_model.LinearRegression`) over 4 macroeconomic features → 2025 DoD budget forecast, plus personnel attrition modeling (5.0% retirements / 0.1% natural mortality / 0.02% training casualties) and POSIX-atomic `os.replace()` history writes so your simulation log never corrupts.
-- **python-training** — a binder-ready jupyter notebook collection from plotting basic flight networks to full 3D visualizations, Altman Z'' credit scoring, and financial-data ETL.
-
-the throughline: whether it's a setup script or a regression model, i build stuff that *actually explains itself* when you open the README.
+| domain | stack / experience |
+|--------|-------------------|
+| **scripting & automation** | bash · python 3 · `set -euo pipefail` · argparse · sqlite3 · atomic file IO with `os.replace` |
+| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib · jupyter · CAGR projection · attrition modeling · Altman Z'' credit scoring |
+| **security & local-first** | keepassxc · helium · self-hosted local AI (lm-studio · ollama · hermes) · zero-trust dependency choices |
+| **unix / CLI UX** | nvim · yazi · mole · btop · htop · zoxide · lazygit · fd · ffmpeg · homebrew |
+| **frontend / web** | HTML · CSS · JavaScript · TypeScript foundations |
 
 ---
 
-### 🛠️ the stack i reach for
+### � projects
 
-```
-          shell-first, always.
-╭─────────────────────────────────────╮
-│  bash  ·  python  ·  sqlite         │
-│  nvim  ·  yazi  ·  mole  ·  btop    │
-│  hermes  ·  lm-studio  ·  ollama    │
-│  homebrew  ·  keepassxc  ·  helium  │
-╰─────────────────────────────────────╯
-  · zero cloud subscriptions if i can avoid it
-  · zero config that isn't a dotfile in git
-  · zero API calls if the model fits in RAM
-```
+| project | what | highlights |
+|---------|------|------------|
+| **Orlo the Whale** 🐳 | opinionated macOS setup script | ASCII art UX, Homebrew PATH bootstrap for Apple Silicon + Intel, curated local-first toolchain |
+| **Hermes Token Tracker** 🧾 | real-token cost reporter for Hermes state.db | zero-network read-only sqlite, DeepSeek 2026 price comparisons, monthly projection math |
+| **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster | 4-feature multiple linear regression (sklearn), 2010–2023 macro dataset, 5% attrition model, atomic JSON history writes |
+| **python-training** 📚 | binder-ready notebook collection | 3D plotting, flight network EDA, financial-data pipelines, Altman Z'' scoring |
 
 ---
 
-### 💬 orlo-ism of the day
+reach me here for collabs. PRs with more ASCII whales get merged first. 🐳
 
-> *"Remember kids: another man's computer remains another man's computer!! Local inference is always better than cloud inference when you have the means to do so."*
->
-> — deep in the comments of `Orlo.sh`, 2026
-
----
-
-📫 reach me on here for collabs. pull requests that add more ASCII whales get merged first. �
-
----
 *made with love by the mind behind Orlo the Whale — swim away my little fish!* 🐳
