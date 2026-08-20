@@ -1,4 +1,4 @@
-### hey, i'm daniel 👋 🐋
+# hey, i'm daniel 👋 🐋
 
 > *"Mama always said the sea is a cruel mistress… but local AI is a paradise."*
 >
