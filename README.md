@@ -1,4 +1,4 @@
-# hey, i'm daniel 👋 🐋
+# hey, i'm daniel 👋 �
 
 > *"Mama always said the sea is a cruel mistress… but local AI is a paradise."*
 >
@@ -12,7 +12,7 @@ i build weird, opinionated dev tools that make your terminal feel like home. str
 
 | project | what it does | vibe |
 |---------|-------------|------|
-| **Orlo the Whale** 🐋 | a personality-driven macOS setup script that turns a fresh machine into your exact dev stack with one bash run. it has ASCII art, opinions, and calls you "my little fish." | chaotic good |
+| **Orlo the Whale** � | a personality-driven macOS setup script that turns a fresh machine into your exact dev stack with one bash run. it has ASCII art, opinions, and calls you "my little fish." | chaotic good |
 | **Hermes Token & Cost Tracker** 🧾 | reads real token counts from Hermes' `state.db` and tells you what your free/local AI chats would have cost on DeepSeek (2026's cheapest capable API alternative). spoilers: you're saving *thousands*. | utilitarian with a whale pun |
 | **WarFi** ⚔️📊 | interactive US military budget & force-structure forecaster. scikit-learn multiple linear regression on 2010–2023 macroeconomic data, CAGR projections for ships/planes/carriers, deterministic 5% attrition model, atomic-swap JSON history log. predicts 2025 budget from your GDP/inflation guesses. UK / EU / APAC editions in the works. | wonkish defense-nerd simulator |
 
@@ -54,7 +54,7 @@ the throughline: whether it's a setup script or a regression model, i build stuf
 
 ---
 
-📫 reach me on here for collabs. pull requests that add more ASCII whales get merged first. 🐋
+📫 reach me on here for collabs. pull requests that add more ASCII whales get merged first. �
 
 ---
 *made with love by the mind behind Orlo the Whale — swim away my little fish!* 🐳
