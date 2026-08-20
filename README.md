@@ -11,7 +11,7 @@ i build opinionated dev tools and data simulators. strong believer in local infe
 | domain | stack / experience |
 |--------|-------------------|
 | **scripting & automation** | bash · python 3 · `set -euo pipefail` · argparse · sqlite3 · atomic file IO with `os.replace` |
-| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib · jupyter · CAGR projection · attrition modeling · Altman Z'' credit scoring |
+| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib · jupyter · CAGR projection · attrition modeling  |
 | **security & local-first** | keepassxc · helium · self-hosted local AI (lm-studio · ollama · hermes) · zero-trust dependency choices |
 | **unix / CLI UX** | nvim · yazi · mole · btop · htop · zoxide · lazygit · fd · ffmpeg · homebrew |
 | **frontend / web** | HTML · CSS · JavaScript · TypeScript foundations |
@@ -24,8 +24,7 @@ i build opinionated dev tools and data simulators. strong believer in local infe
 |---------|------|------------|
 | **Orlo the Whale** 🐳 | opinionated macOS setup script | ASCII art UX, Homebrew PATH bootstrap for Apple Silicon + Intel, curated local-first toolchain |
 | **Hermes Token Tracker** 🧾 | real-token cost reporter for Hermes state.db | zero-network read-only sqlite, DeepSeek 2026 price comparisons, monthly projection math |
-| **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster | 4-feature multiple linear regression (sklearn), 2010–2023 macro dataset, 5% attrition model, atomic JSON history writes |
-| **python-training** 📚 | binder-ready notebook collection | 3D plotting, flight network EDA, financial-data pipelines, Altman Z'' scoring |
+| **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster | 4-feature multiple linear regression (sklearn), 2010–2023 macro dataset, 5% attrition model, atomic JSON history writes for data handling |
 
 ---
 
