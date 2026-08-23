@@ -11,6 +11,7 @@ I build opinionated dev tools and data simulators. strong believer in local infe
 | **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster | 4-feature multiple linear regression (sklearn), 2010–2023 macro dataset, 5% attrition model, atomic JSON history writes for data handling |
 
 | **Orlo the Whale** 🐳 | opinionated macOS setup script | ASCII art UX, Homebrew PATH bootstrap for Apple Silicon + Intel, curated local-first toolchain |
+
 | **Hermes Token Tracker** 🧾 | real-token cost reporter for Hermes state.db | zero-network read-only sqlite, DeepSeek 2026 price comparisons, monthly projection math |
 
 ---
