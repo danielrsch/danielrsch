@@ -2,23 +2,33 @@
 
 > *"Another man's computer remains another man's computer."* — Orlo the Whale 🐋
 
-i build opinionated dev tools and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
+I build opinionated dev tools and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
 
 ---
 
-### �️ skills
+### 💻 skills and setup 
 
 | domain | stack / experience |
 |--------|-------------------|
-| **scripting & automation** | bash · python 3 · `set -euo pipefail` · argparse · sqlite3 · atomic file IO with `os.replace` |
-| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib · jupyter · CAGR projection · attrition modeling  |
-| **security & local-first** | keepassxc · helium · self-hosted local AI (lm-studio · ollama · hermes) · zero-trust dependency choices |
-| **unix / CLI UX** | nvim · yazi · mole · btop · htop · zoxide · lazygit · fd · ffmpeg · homebrew |
+| **scripting & automation** | bash · python 3 · sqlite3 · atomic file IO with `os.replace` · argparse · pandas |
+
+| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
+
 | **frontend / web** | HTML · CSS · JavaScript · TypeScript foundations |
 
 ---
+### 🖥️ hardware setup
 
-### � projects
+ |setup|
+ |Macbook pro M1 Max | 64gb RAM |
+
+ | **security & local-first** | keepassxc · helium · self-hosted local AI (lm-studio · ollama · hermes) · zero-trust dependency choices |
+
+| **unix / CLI UX** | nvim · yazi · mole · btop · htop · zoxide · lazygit · fd · ffmpeg · homebrew |
+
+---
+
+### 📂 projects
 
 | project | what | highlights |
 |---------|------|------------|
