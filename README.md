@@ -2,7 +2,8 @@
 
 > *"Another man's computer remains another man's computer."* — Orlo the Whale 🐋
 
-I build opinionated dev tools and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
+I build cool  stuff and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
+
 
 ---
 
@@ -16,25 +17,21 @@ I build opinionated dev tools and data simulators. strong believer in local infe
 
 ---
 ### 🖥️ hardware setup
-|setup|
+Setup
 
-|Macbook pro M1 Max | 64gb RAM |
+- Macbook pro M1 Max  -->  64gb RAM 
+- **scripting & automation**  --> bash · python 3 · sqlite3 · argparse · pandas |
 
-| **security & local-first** | keepassxc · helium · self-hosted local AI (lm-studio · ollama · hermes) · zero-trust dependency choices |
-
-| **scripting & automation** | bash · python 3 · sqlite3 · argparse · pandas |
-
-| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
-
- | **frontend / web** | HTML · CSS · JavaScript · TypeScript foundations |
+- **data & ML**  -->  pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
+- **frontend / web**  -->  HTML · CSS · JavaScript · TypeScript foundations |
 
 ---
-### 💻 skills and setup 
-| **scripting & automation** | bash · python 3 · sqlite3 · argparse · pandas |
+### 💼 skills
+- **scripting & automation**  -->  bash · python 3 · sqlite3 · argparse · pandas |
 
-| **data & ML** | pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
+- **data & ML**  -->  pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
 
-| **frontend / web** | HTML · CSS · JavaScript · TypeScript foundations |
+- **frontend / web**  -->  HTML · CSS · JavaScript · TypeScript foundations |
 
 ---
 
