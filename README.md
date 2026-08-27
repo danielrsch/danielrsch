@@ -2,38 +2,45 @@
 
 > *"Another man's computer remains another man's computer."* — Orlo the Whale 🐋
 
-I build cool  stuff and data simulators. strong believer in local inference, strict bash, and READMEs that actually explain themselves.
+I build local-first tools, data simulators, and opinionated automation scripts. Strong believer in strict bash, zero-network workflows, and READMEs that actually explain themselves.
 
 
 ---
 
 ### 📂 projects
 
-| **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster | 4-feature multiple linear regression (sklearn), 2010–2023 macro dataset, 5% attrition model, atomic JSON history writes for data handling |
-
-| **Orlo the Whale** 🐳 | opinionated macOS setup script | ASCII art UX, Homebrew PATH bootstrap for Apple Silicon + Intel, curated local-first toolchain |
-
-| **Hermes Token Tracker** 🧾 | real-token cost reporter for Hermes state.db | zero-network read-only sqlite, DeepSeek 2026 price comparisons, monthly projection math |
-
----
-### 🖥️ hardware setup
-Setup
-
-- Macbook pro M1 Max  -->  64gb RAM 
-- **scripting & automation**  --> bash · python 3 · sqlite3 · argparse · pandas |
-
-- **data & ML**  -->  pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
-- **frontend / web**  -->  HTML · CSS · JavaScript · TypeScript foundations |
-
----
-### 💼 skills
-- **scripting & automation**  -->  bash · python 3 · sqlite3 · argparse · pandas |
-
-- **data & ML**  -->  pandas · numpy · scikit-learn (`LinearRegression`) · matplotlib  · CAGR projection · attrition modeling  |
-
-- **frontend / web**  -->  HTML · CSS · JavaScript · TypeScript foundations |
+| **WarFi** ⚔️📊 | US DoD budget & force-structure forecaster using 4-feature multiple linear regression (scikit-learn) on a 2010–2023 macro dataset. Includes a 5% attrition model and atomic JSON history writes for robust data handling. |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Orlo the Whale** 🐳 | Opinionated macOS setup script with ASCII art UX, Homebrew PATH bootstrap for Apple Silicon + Intel, and a curated local-first toolchain. |
+| **Hermes Token Tracker** 🧾 | Zero-network read-only SQLite reporter for Hermes state.db. Pulls DeepSeek 2026 price comparisons and runs monthly projection math to estimate real token costs. |
 
 ---
 
-reach me here for collabs. PRs with more ASCII whales get merged first. 🐳
-*made with love by the mind behind Orlo the Whale — swim away my little fish!* 🐳
+### 🔧 Tech Stack
+
+| Domain              | Tools                                                                 |
+|---------------------|-----------------------------------------------------------------------|
+| Scripting/Automation| bash, Python 3, SQLite3, argparse, pandas                             |
+| Data & ML           | pandas, NumPy, scikit-learn (LinearRegression), matplotlib            |
+| Frontend/Web        | HTML, CSS, JavaScript, TypeScript foundations                         |
+
+Specializations: CAGR projection, attrition modeling, local-first toolchains.
+
+---
+### 🖥️ Hardware & Skills
+
+**MacBook Pro M1 Max — 64GB RAM**
+
+| Domain              | Tools                                                                 |
+|---------------------|-----------------------------------------------------------------------|
+| Scripting/Automation| bash, Python 3, SQLite3, argparse, pandas                             |
+| Data & ML           | pandas, NumPy, scikit-learn (LinearRegression), matplotlib            |
+| Frontend/Web        | HTML, CSS, JavaScript, TypeScript foundations                         |
+
+Specializations: CAGR projection, attrition modeling, local-first toolchains.
+
+
+
+Open to collaborations. PRs with more ASCII whales get merged first. 🐳
+
+— *Made with love by the mind behind Orlo the Whale. Swim away, my little fish.* 🐳
